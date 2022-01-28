@@ -1,13 +1,13 @@
 // atividade 1
 
-/*let dados = {
+let dados = {
     name: 'Samuel',
     age: 25,
     peso: 95
 }
 dados.filme = 'Spider-man';
 delete dados.peso;
-console.log(dados);*/
+console.log(dados);
 
 // atividade 2
 
